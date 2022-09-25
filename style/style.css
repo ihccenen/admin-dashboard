@@ -15,7 +15,7 @@
 
 body {
   display: grid;
-  grid-template-columns: 1fr 5fr;
+  grid-template-columns: 1fr 5.2fr;
   grid-template-areas:
     'dashboard    header    header'
     'dashboard    main      main';
@@ -64,7 +64,7 @@ a {
 
 .dashboard > ul {
   font-size: 1.5rem;
-  font-weight: 600;
+  font-weight: 500;
   display: grid;
   grid-template-columns: 1fr;
   gap: 1rem;
