@@ -15,7 +15,7 @@
 
 body {
   display: grid;
-  grid-template-columns: 1fr 5.2fr;
+  grid-template-columns: 1fr 5fr;
   grid-template-areas:
     'dashboard    header    header'
     'dashboard    main      main';
